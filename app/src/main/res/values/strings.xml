@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Login Page</string>
+    <string name="login">LOGIN</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="forget_your_password">Forget your password?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">REGISTER</string>
+    <string name="re_enter_password">Re-Enter password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="clear">Clear</string>
+    <string name="_0">0</string>
+    <string name="_equal">=</string>
+    <string name="_slash">/</string>
+    <string name="multi">*</string>
+    <string name="add">+</string>
+    <string name="subtrac">-</string>
+</resources>
